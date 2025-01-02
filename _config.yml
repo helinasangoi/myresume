@@ -52,6 +52,27 @@ about_content: | # this will include new lines to allow paragraphs
     - Images ![alt text](/images/landscape-trees.jpg "Trees")
 
 content:
+  - title: Areas of strength
+    layout: column
+    content:
+      - layout: center
+        border:
+        field:
+          - name: Teamwork
+          - name: Data Management
+          - name: Computer Literacy
+          - name: Administrative/Office Functions
+          - name: Budgeting/Controlling Expenses
+          - name: Communication
+          - name: Efficient Calendar Management
+          - name: Time Management
+          - name: Event Planning and Coordination
+          - name: Manage Confidential Information
+          - name: Client & Employee Relations
+          - name: Organizational
+          - name: Negotiate Contracts/Procurement
+          - name: Problem Analysis/ Resolution
+          - name: Meticulous Attention to Detail
   - title: Projects # Title for the section
     layout: list # Type of content section (list/text)
     content:
