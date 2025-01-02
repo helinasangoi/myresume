@@ -10,7 +10,7 @@ name: Helina Sangoi
 title: Admin
 email: helinasangoi27@gmail.com
 # email_title: Email (Email title override)
-phone: 9090909090
+phone: 7021238887
 # phone_title: Phone (Phone title override)
 website: https://helinasangoi.github.io/myresume
 # website_title: Web (Website title override)
@@ -19,19 +19,10 @@ website: https://helinasangoi.github.io/myresume
 darkmode: false
 
 # Social links
-twitter_username: jekyllrb
-github_username:  jekyll
-stackoverflow_username: "00000001"
-dribbble_username: jekyll
+github_username:  helinasangoi
 facebook_username: jekyll
-flickr_username: jekyll
 instagram_username: jekyll
-linkedin_username: jekyll
-xing_username: jekyll
-pinterest_username: jekyll
-youtube_username: jekyll
-orcid_username: 0000-0000-0000-0000
-googlescholar_username: D847cGsAAAAJ
+linkedin_username: helina-sangoi-a50a6a145
 
 # Additional icon links
 additional_links:
@@ -84,15 +75,48 @@ content:
   - title: Experience
     layout: list
     content:
-      - layout: right
-        title: Company name
-        sub_title: Job title
-        caption: Date Range (eg. November 2016 - present)
-        link: Link to company (optional)
+      - layout: left
+        title: Mash Energy India Pvt Ltd
+        sub_title: Admin Incharge & Procurement, Data Analyst
+        caption: September 2022  - till Date
+        link:
         quote: >
           Short description of the company (optional)
         description: | # this will include new lines to allow paragraphs
-          Description of role
+          Managed end-to-end courier shipments, ensuring timely and accurate delivery to specified addresses.
+          Handled the packing of samples with meticulous attention to detail.
+          Oversaw international shipment documentation, ensuring compliance with global shipping regulations and standards.
+      - layout: left
+        title: Fortune Tata Motors Pvt. Ltd
+        sub_title: Sales Coordinator & Delivery Associate
+        caption: March 2021 to September 2022
+        link:
+        quote: >
+          Short description of the company (optional)
+        description: | # this will include new lines to allow paragraphs
+          Scheduled appointments for sales and business development discussions.
+          Managed automobile sales and utilized company resources to develop a filing system that keeps all active sales files available digitally and in hard copy form.
+          Ensured the upkeep of display cars through coordination with various teams.
+          Managed the courier register, including incoming and outgoing couriers, and maintained courier slips for bill verification and processing.
+          Oversaw the Delivery Department to ensure timely car delivery.
+      - layout: left
+        title: Euphoria Technologies Pvt Ltd
+        sub_title: Admin
+        caption: June 2017 to December 2019
+        link:
+        quote: >
+          Short description of the company (optional)
+        description: | # this will include new lines to allow paragraphs
+          Managed all aspects of air ticketing, hotel booking, and local logistics for the group.
+          Conducted interviews, handled joining formalities, and engaged in employee engagement activities.
+          Directed visitors to the appropriate person and office.
+          Handled incoming phone calls, including answering, screening, and forwarding calls.
+          Provided basic and accurate information in-person and via phone/email.
+          Upheld office security by adhering to safety procedures and controlling access via the reception desk, including monitoring the logbook.
+          Ordered front office supplies and maintained inventory.
+          Updated calendars and scheduled meetings.
+          Kept updated records of office expenses and costs.
+          Performed other clerical duties such as filing, photocopying, transcribing, and faxing.
   - title: Education
     layout: list
     content:
