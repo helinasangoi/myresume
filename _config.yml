@@ -120,7 +120,7 @@ content:
   - title: Education
     layout: list
     content:
-      - layout: top-right
+      - layout: top-left
         title: Mumbai University
         sub_title: Bachelors of Commerce
         caption: 2001 – 2004
@@ -128,7 +128,7 @@ content:
           Short institution or course description (optional)
         description: | # this will include new lines to allow paragraphs
           Description of qualification
-      - layout: top-right
+      - layout: top-left
         title: Maharashtra Board
         sub_title: Higher Secondary Certificate ( HSC )
         caption: 1997 – 2000
@@ -136,7 +136,7 @@ content:
           Short institution or course description (optional)
         description: | # this will include new lines to allow paragraphs
           Description of qualification
-      - layout: top-right
+      - layout: top-left
         title: Maharashtra Board
         sub_title: School Cerfificate ( SSC )
         caption: 1987 – 1997
