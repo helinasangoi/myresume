@@ -121,9 +121,25 @@ content:
     layout: list
     content:
       - layout: top-right
-        title: Institution name
-        sub_title: Qualifications (eg. BA Performing Arts)
-        caption: Date Range (eg. 2016 - 2019)
+        title: Mumbai University
+        sub_title: Bachelors of Commerce
+        caption: 2001 – 2004
+        quote: >
+          Short institution or course description (optional)
+        description: | # this will include new lines to allow paragraphs
+          Description of qualification
+      - layout: top-right
+        title: Maharashtra Board
+        sub_title: Higher Secondary Certificate ( HSC )
+        caption: 1997 – 2000
+        quote: >
+          Short institution or course description (optional)
+        description: | # this will include new lines to allow paragraphs
+          Description of qualification
+      - layout: top-right
+        title: Maharashtra Board
+        sub_title: School Cerfificate ( SSC )
+        caption: 1987 – 1997
         quote: >
           Short institution or course description (optional)
         description: | # this will include new lines to allow paragraphs
