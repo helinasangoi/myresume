@@ -43,10 +43,21 @@ additional_links:
 # about_title: About Me (Use this to override about section title)
 about_profile_image: images/helinasangoi.jpeg
 about_content: | # this will include new lines to allow paragraphs
-  Write an awesome description about yourself here, this supports markdown, so you can add [links](http://foobar.com) and highlight things <mark>like this</mark>.
+  - <mark>Versatile</mark>
+  - Resourceful
+  - Results-oriented
+  
+  A professional with all above experience in managing client-centric office operations. With exceptional experience
+  to support daily business operations, cross-functional department collaborations, team mentoring/training, customer
+  interaction, and all other administrative support activities. Recognized for 
+  <mark> - strong decision-making
+  - prioritization and
+  - time management skills </mark>
+  as well as for excelling at managing responsibilities and delivering excellent results. 
+  Highly adept at using strong interpersonal and communication skills to build productive working relationships.  
+
 
   You can even add paragraphs by using empty lines like this and add anything else [markdown](https://www.markdownguide.org/getting-started#what-is-markdown) supports such as
-    - Lists
     - Tables
     - <a href="google.com">Links</a>
     - Images ![alt text](/images/landscape-trees.jpg "Trees")
