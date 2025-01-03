@@ -1,7 +1,7 @@
 <div class="grid-flow">
     {% for item in include.content %}
         {% for each in item.field %}
-            <mark>{{ each.name }}</mark>
+            <p>{{ each.name }}</p>
         {% endfor %}
     {% endfor %}
 </div>
