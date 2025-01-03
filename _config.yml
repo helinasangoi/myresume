@@ -236,8 +236,8 @@ content:
     layout: text
     content: | # this will include new lines to allow paragraphs
       **Achievements**<br>
-      *performance* Consistently exceeded sales targets, demonstrating a strong track record in performance.<br>
-      *leadership* Promoted to Group Team Leader based on exceptional performance and leadership skills.      
+      <mark>*Performance*</mark> Consistently exceeded sales targets, demonstrating a strong track record in performance.<br>
+      <mark>*Leadership*</mark> Promoted to Group Team Leader based on exceptional performance and leadership skills.      
 
 # Footer
 footer_show_references: true
