@@ -149,6 +149,62 @@ content:
           Updated calendars and scheduled meetings.
           Kept updated records of office expenses and costs.
           Performed other clerical duties such as filing, photocopying, transcribing, and faxing.
+      - layout: left
+        title: Accord Marine Management Pvt. Ltd
+        sub_title: Liaison Officer
+        caption: May 2015 to January 2017
+        link:
+#        quote: >
+#          Short description of the company (optional)
+        description: | # this will include new lines to allow paragraphs
+          - Coordinated with manning agents to select officers and ranks, ensuring the timely acquisition of
+          qualified applicants through an efficient and proactive recruitment process in line with procedures.
+          - Acted as a liaison between manning agents and the Marine Operations Manager for crew change
+          arrangements. Liaised with DGS, IR Class and other authorities.
+          - Executed manning decisions as directed by top management.
+          - Monitored available ex-crew and planned their deployment, while also anticipating the company’s
+          future recruitment needs.
+      - layout: left
+        title: Fortune Tata Motors Pvt. Ltd
+        sub_title: Hospitality Associate
+        caption: February 2014 - March 2015
+        link:
+#        quote: >
+#          Short description of the company (optional)
+        description: | # this will include new lines to allow paragraphs
+          - Arranged appointments for sales and business development discussions.
+          - Maintained the condition of display cars by coordinating with the Housekeeping and Pantry teams.
+          - Managed incoming calls and directed them to the relevant parties.
+          - Oversaw the courier register, tracking both incoming and outgoing couriers, and kept courier slips for
+          bill verification and processing.
+          - Worked in collaboration with various teams to ensure customer satisfaction through a team-oriented approach.
+      - layout: left
+        title: Carwale.com Private Limited
+        sub_title: Dealer /Sales Coordinator
+        caption: March 2011 – April 2012
+#        link:
+#        quote: >
+#          Short description of the company (optional)
+        description: | # this will include new lines to allow paragraphs
+          - Liaised with dealers to ensure customers received price quotations and test drives.
+          - Managed booking details for customer car purchases, including recording customer information, car
+          model, color, and chassis number.
+          - Oversaw used car sales through the website and warranties.
+          - Updated the Panel, including recording customer remarks.
+          - Fostered positive relationships with customers, addressed concerns, outsourced as needed, cond
+      - layout: left
+        title: Kaizen Global Services Private Limited
+        sub_title: Outbound Sales Representative
+        caption: February 2006 – September 2010
+#        link:
+#        quote: >
+#          Short description of the company (optional)
+        description: | # this will include new lines to allow paragraphs
+          - Made outbound calls to credit card members to sell Vertrue discount coupon cards
+          - Consistently achieved daily sales targets
+          - Submitted daily sales reports to the manager
+          - Trained new team members and helped them achieve their target
+
   - title: Education
     layout: list
     content:
@@ -156,31 +212,31 @@ content:
         title: Mumbai University
         sub_title: Bachelors of Commerce
         caption: 2001 – 2004
-        quote: >
-          Short institution or course description (optional)
+#        quote: >
+#          Short institution or course description (optional)
         description: | # this will include new lines to allow paragraphs
           Description of qualification
       - layout: top-left
         title: Maharashtra Board
         sub_title: Higher Secondary Certificate ( HSC )
         caption: 1997 – 2000
-        quote: >
-          Short institution or course description (optional)
+#        quote: >
+#          Short institution or course description (optional)
         description: | # this will include new lines to allow paragraphs
           Description of qualification
       - layout: top-left
         title: Maharashtra Board
         sub_title: School Cerfificate ( SSC )
         caption: 1987 – 1997
-        quote: >
-          Short institution or course description (optional)
+#        quote: >
+#          Short institution or course description (optional)
         description: | # this will include new lines to allow paragraphs
           Description of qualification
   - title: A Little More About Me
     layout: text
     content: | # this will include new lines to allow paragraphs
-      **Achievements**
-      *performance* Consistently exceeded sales targets, demonstrating a strong track record in performance.
+      **Achievements**<br>
+      *performance* Consistently exceeded sales targets, demonstrating a strong track record in performance.<br>
       *leadership* Promoted to Group Team Leader based on exceptional performance and leadership skills.      
 
 # Footer
