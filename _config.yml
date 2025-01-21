@@ -8,7 +8,7 @@ version: 2
 # Personal info
 name: Helina Sangoi
 title: Admin
-email: helinasangoi27@gmail.com
+email: helina.sangoi27@gmail.com
 # email_title: Email (Email title override)
 phone: 7021238887
 # phone_title: Phone (Phone title override)
@@ -214,24 +214,24 @@ content:
         caption: 2001 – 2004
 #        quote: >
 #          Short institution or course description (optional)
-        description: | # this will include new lines to allow paragraphs
-          Description of qualification
+#        description: | # this will include new lines to allow paragraphs
+#          Description of qualification
       - layout: top-left
         title: Maharashtra Board
         sub_title: Higher Secondary Certificate ( HSC )
         caption: 1997 – 2000
 #        quote: >
 #          Short institution or course description (optional)
-        description: | # this will include new lines to allow paragraphs
-          Description of qualification
+#        description: | # this will include new lines to allow paragraphs
+#          Description of qualification
       - layout: top-left
         title: Maharashtra Board
         sub_title: School Cerfificate ( SSC )
         caption: 1987 – 1997
 #        quote: >
 #          Short institution or course description (optional)
-        description: | # this will include new lines to allow paragraphs
-          Description of qualification
+#        description: | # this will include new lines to allow paragraphs
+#          Description of qualification
   - title: A Little More About Me
     layout: text
     content: | # this will include new lines to allow paragraphs
