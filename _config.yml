@@ -115,6 +115,7 @@ content:
 #        quote: >
 #          Short description of the company (optional)
         description: | # this will include new lines to allow paragraphs
+          - Front Desk Associate & Sales Coordinator 
           - Managed end-to-end courier shipments, ensuring timely and accurate delivery to specified addresses.
           - Handled the packing of samples with meticulous attention to detail.
           - Oversaw international shipment documentation, ensuring compliance with global shipping regulations and standards.
